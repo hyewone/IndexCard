@@ -126,10 +126,10 @@ Shin</string>
             </objects>
             <point key="canvasLocation" x="2197" y="-206"/>
         </scene>
-        <!--View Controller-->
+        <!--View Papago-->
         <scene sceneID="z4N-81-Oj4">
             <objects>
-                <viewController id="QZu-oa-Cgz" customClass="ViewController" customModule="IndexCard" sceneMemberID="viewController">
+                <viewController id="QZu-oa-Cgz" customClass="ViewPapago" customModule="IndexCard" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fZB-ry-Ejt">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
